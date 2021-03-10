@@ -1,0 +1,16 @@
+html {
+    background-color: lavenderblush;
+}
+
+.content {
+    margin: 3rem auto;
+    max-width: 600px;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.4em;
+}
