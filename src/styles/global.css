@@ -14,3 +14,19 @@ h1 {
 p {
     font-size: 1.4em;
 }
+
+h2 {
+    margin-top: 2em;
+}
+
+.answer {
+    /* color: #8c979a; */
+    color: #9c9c9c;
+}
+
+footer {
+    padding: 4em 0 1em 0;
+    text-align: center;
+    color: #728194;
+    font-size: 0.9em;
+}
