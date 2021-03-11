@@ -5,13 +5,13 @@ export default function Home() {
         <h1>Hello Netlify!</h1>
         <p>I'm Audrey Wong 👋.</p>
         <p>I'd like very much to join Netlify's Support Engineer team and help developers build a better Web.</p>
-        <p>I love coding (I think it's poetry), art, nature, animals, especially squirrels! 🐿️ Like squirrel I am curious, resourceful, good at learning things and solving problems, and will not give up at the first sign of struggle as demonstrated by the squirrels in this <a href="https://www.youtube.com/watch?v=hFZFjoX2cGg" target="_blank">video</a>.</p>
+        <p>I love coding (I think it's poetry), art, nature, animals, especially squirrels! 🐿️ Like squirrel I am curious, resourceful, good at learning things and solving problems, and will not give up at the first sign of struggle as demonstrated by the squirrels navigating a obstacle course built by a mechanical engineer in this video <a href="https://www.youtube.com/watch?v=hFZFjoX2cGg" target="_blank">here</a>.</p>
         <h2>I didn't know what else to include on my site so I decided to write up my answers 👇.</h2>
         <h2>1. Talk about how you made your site and why you chose the tools you did. Briefly explain one challenge you experienced in setting up this site and how you solved it.</h2>
         <p class="answer">I chose Gatsby as my static site generator because I'm more familiar with JavaScript and React. I followed Gatsby's starter theme <a href="https://www.gatsbyjs.com/docs/tutorial/part-one/" target="_blank">tutorial</a> to create the site. I wasn't sure what build command to use but I found it in Netlify docs <a href="https://docs.netlify.com/configure-builds/common-configurations/gatsby/" target="_blank">here.</a>
         </p>
         <h2>2. What did you think of our service during the time you used it? Provide either some constructive criticism or some points that impressed you. Be honest! “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)</h2>
-        <p class="answer">It was surprisingly simple to deploy my site to Netlify! I was impressed to see that changes to Git were automatically built and deployed by Netlify almost immediately 🙌. I was a bit amused to see that Netlify's dog mascot on the community <a href="https://answers.netlify.com/latest" target="_blank">
+        <p class="answer">It was surprisingly simple to deploy my site to Netlify! I was impressed to see that changes to Git were automatically built and deployed by Netlify almost immediately 🙌. I was amused to see that Netlify's dog mascot on the community <a href="https://answers.netlify.com/latest" target="_blank">
                 forums</a> looks a little like the Dogecoin dog 🐶.</p>
         <h2>3. Rank your 5 favorite, and 5 least favorite, activities from this <a href="https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6" target="_blank">list</a>.</h2>
         <p class="answer">
