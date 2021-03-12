@@ -2,6 +2,11 @@ html {
     background-color: lavenderblush;
 }
 
+h1   {
+    font-family: "Press Start 2P";
+    /* color: #728194; */
+}
+
 .content {
     margin: 3rem auto;
     max-width: 600px;
@@ -26,6 +31,6 @@ h2 {
 footer {
     padding: 4em 0 0.1em 0;
     text-align: center;
+    font-size: 0.8em;
     color: #728194;
-    font-size: 0.9em;
 }

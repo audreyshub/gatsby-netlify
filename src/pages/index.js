@@ -50,7 +50,7 @@ export default function Home() {
         <h2>9. (optional/bonus) Could you give us a suggestion to improve this test or the job posting?</h2>
         <p class="answer">On the job posting for APAC, the hours are listed as Monday through Friday, UTC+8-UTC+10. I believe that is an error as it appears there are only two hours in the shift 🕑. I also think sharing the salary range would help with transparency.</p>
         <footer>
-            <p>Hand-crafted with 💗 by Audrey Wong</p>
+            <p>Hand-crafted with&ensp;💗 &ensp;by Audrey Wong</p>
         </footer>
     </div>);
 }
